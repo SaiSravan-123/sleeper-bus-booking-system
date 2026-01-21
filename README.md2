@@ -1,0 +1,10 @@
+## 🎨 UI / UX Design (Phase 2)
+
+The UI/UX for the Sleeper Bus Ticket Booking System was designed using Figma
+and published as a Figma Site for easy preview.
+
+🔗 Live UI Preview (Figma Site):
+https://storm-blur-47569143.figma.site/
+
+Phase 4 implements a rule-based booking confirmation prediction to simulate
+machine learning behavior using historical seat occupancy data.
