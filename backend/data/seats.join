@@ -1,0 +1,17 @@
+[
+  {
+    "seat": "A1",
+    "status": "available",
+    "type": "normal"
+  },
+  {
+    "seat": "A2",
+    "status": "booked",
+    "type": "female"
+  },
+  {
+    "seat": "B1",
+    "status": "available",
+    "type": "normal"
+  }
+]
